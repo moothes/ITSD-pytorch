@@ -3,4 +3,4 @@ code for CVPR 2020 paper "Interactive Two-Stream Decoder for Accurate and Fast S
 
 Code will be available soon.
 
-Saliency maps can be download at:
+Saliency maps can be download at: VGG (Baidu Yun), Resnet (Baidu Yun)
