@@ -1,0 +1,13 @@
+{
+"_comment":"it is the record of path([] is represented as list and {} is represented as dict in python)",
+"DATASET":{ 
+"ECSSD":["../dataset/ECSSD/images", "../dataset/ECSSD/segmentations"],
+"MSRA10K":["../dataset/MSRA10K/images", "../dataset/MSRA10K/segmentations"],
+"DUTS-TE":["../dataset/DUTS-TE/images", "../dataset/DUTS-TE/segmentations"],
+"DUTS-TR":["../dataset/DUTS-TR/images", "../dataset/DUTS-TR/segmentations"],
+"DUT-OMRON":["../dataset/DUT-OMRON/images", "../dataset/DUT-OMRON/segmentations"],
+"PASCAL-S":["../dataset/PASCAL-S/images", "../dataset/PASCAL-S/segmentations"],
+"SOD":["../dataset/SOD/images", "../dataset/SOD/segmentations"],
+"HKU-IS":["../dataset/HKU-IS/images", "../dataset/HKU-IS/segmentations"]
+}
+}
