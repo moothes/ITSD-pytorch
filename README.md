@@ -10,7 +10,8 @@ Saliency maps can be download at: VGG ([Baidu Yun](https://pan.baidu.com/s/1AdkL
 
 ## Usage：
 Imagenet-pretrained weights: VGG ([Baidu Yun](https://pan.baidu.com/s/1Ii1Z3qqCxSk9LB6tiA9Q1g) \[xkxh\]), Resnet ([Baidu Yun](https://pan.baidu.com/s/1_-A3ACWKZEN1VXtKTAo3Nw) \[rc2n\])
-Please refer to this repo for results evaluation: [public evaluation](https://github.com/Andrew-Qibin/SalMetric).
+
+Please refer to this repo for results evaluation: [Salmetric](https://github.com/Andrew-Qibin/SalMetric).
  
 ### Training：
 ```bash
