@@ -24,7 +24,7 @@ python3 test.py --sub=[job_name] --ids=[gpus]
 ```
 
 ## Contact
-If you have any questions, feel free to contact me via: `mootheszhou(at)gmail.com`.
+If you have any questions, feel free to contact me via: `mootheszhou@gmail.com`.
 
 
 ## Bibtex
