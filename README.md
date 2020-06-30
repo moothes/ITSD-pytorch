@@ -9,25 +9,25 @@ Saliency maps can be download at: VGG ([Baidu Yun](https://pan.baidu.com/s/1AdkL
 - [torchvision 0.2.1](http://pytorch.org/)
 - progress
 
-### Usage：
+## Usage：
 Imagenet-pretrained weights: VGG ([Baidu Yun](https://pan.baidu.com/s/1Ii1Z3qqCxSk9LB6tiA9Q1g) \[xkxh\]), Resnet ([Baidu Yun](https://pan.baidu.com/s/1_-A3ACWKZEN1VXtKTAo3Nw) \[rc2n\])
 Please refer to this repo for results evaluation: [public evaluation](https://github.com/Andrew-Qibin/SalMetric).
  
-Training：
+### Training：
 ```bash
 python3 train.py --sub=[job_name] --ids=[gpus] 
 ```
 
-Testing:
+### Testing:
 ```bash
 python3 test.py --sub=[job_name] --ids=[gpus] 
 ```
 
-### Contact
+## Contact
 If you have any questions, feel free to contact me via: `mootheszhou(at)gmail.com`.
 
 
-### Bibtex
+## Bibtex
 ```latex
 @InProceedings{Zhou_2020_CVPR,
 author = {Zhou, Huajun and Xie, Xiaohua and Lai, Jian-Huang and Chen, Zixuan and Yang, Lingxiao},
