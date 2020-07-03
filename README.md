@@ -19,12 +19,12 @@ Please refer to this repo for results evaluation: [SalMetric](https://github.com
  
 ### Training：
 ```bash
-python3 train.py --sub=[job_name] --ids=[gpus] 
+python3 train.py --sub=[job_name] --ids=[gpus] --model=[vgg/resnet]
 ```
 
 ### Testing:
 ```bash
-python3 test.py --sub=[job_name] --ids=[gpus] 
+python3 test.py --sub=[job_name] --ids=[gpus] --model=[vgg/resnet]
 ```
 
 ## Contact
