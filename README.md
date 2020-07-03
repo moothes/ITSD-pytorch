@@ -7,6 +7,8 @@ Saliency maps can be download at: VGG ([Baidu Yun](https://pan.baidu.com/s/1AdkL
 
 - [Pytorch 1.0.0](http://pytorch.org/)
 - [torchvision 0.2.1](http://pytorch.org/)
+- Thop
+- Progress
 
 ## Usage：
 Imagenet-pretrained weights: VGG ([Baidu Yun](https://pan.baidu.com/s/1Ii1Z3qqCxSk9LB6tiA9Q1g) \[xkxh\]), Resnet ([Baidu Yun](https://pan.baidu.com/s/1_-A3ACWKZEN1VXtKTAo3Nw) \[rc2n\])
