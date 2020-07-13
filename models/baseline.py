@@ -3,11 +3,11 @@ import torch
 
 # Original
 #from models.encoder.vgg_our import vgg
-#from models.encoder.res_our import resnet50 as resnet50
+#from models.encoder.resnet_our import resnet
 
 # Official
 from models.encoder.vgg import vgg16 as vgg
-from models.encoder.resnet import resnet
+from models.encoder.resnet import resnet50 as resnet
 
 #from models.encoder.mobile import mobilenet
 from .baseU import baseU
