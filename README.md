@@ -11,9 +11,7 @@ Saliency maps can be download at: VGG ([Baidu Yun](https://pan.baidu.com/s/1AdkL
 - Progress
 
 ## Usage：
-Imagenet-pretrained weights can be download at [Pytorch Models](https://pytorch.org/hub/research-models).
-
-Or using our own implement: VGG ([Baidu Yun](https://pan.baidu.com/s/1Ii1Z3qqCxSk9LB6tiA9Q1g) \[xkxh\]), Resnet ([Baidu Yun](https://pan.baidu.com/s/1_-A3ACWKZEN1VXtKTAo3Nw) \[rc2n\]).
+Official imagenet-pretrained weights can be download at [Resnet50](https://download.pytorch.org/models/resnet50-19c8e357.pth) and [VGG16](https://download.pytorch.org/models/vgg16-397923af.pth).
 
 Please refer to this repo for results evaluation: [SalMetric](https://github.com/Andrew-Qibin/SalMetric).
  
