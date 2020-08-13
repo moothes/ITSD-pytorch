@@ -25,7 +25,7 @@ python3 train.py --sub=[job_name] --ids=[gpus] --model=[vgg/resnet]
 ### Testing:
 ```bash
 
-mv path_to_model ./save/[backbone]/[job_name]/final.pkl  # if testing the provided models
+mv path_to_model ./save/[vgg/resnet]/[job_name]/final.pkl  # if testing the provided models
 python3 test.py --sub=[job_name] --ids=[gpus] --model=[vgg/resnet]
 ```
 
