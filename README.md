@@ -31,7 +31,7 @@ python3 test.py --sub=[job_name] --ids=[gpus] --model=[vgg/resnet]
 
 
 ## Contact
-If you have any questions, feel free to contact me via: `mootheszhou@gmail.com`.
+If you have any question, feel free to contact me via: `mootheszhou@gmail.com`.
 
 
 ## Bibtex
