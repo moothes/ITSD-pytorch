@@ -128,9 +128,9 @@ class Loader(object):
         #print_model_parm_flops(self.Model)
         #print_model_parm_nums(self.Model)
         
-        input = torch.randn(1, 3, opt.size, opt.size)
-        flops, params = profile(self.Model, inputs=(input, ))
-        print('FLOPs: {:.2f}, Params: {:.2f}.'.format(flops / 1e9, params / 1e6))
+        #input = torch.randn(1, 3, opt.size, opt.size)
+        #flops, params = profile(self.Model, inputs=(input, ))
+        #print('FLOPs: {:.2f}, Params: {:.2f}.'.format(flops / 1e9, params / 1e6))
 
 
         self.mode = self.MODE
