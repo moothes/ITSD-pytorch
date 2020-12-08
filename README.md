@@ -11,7 +11,8 @@ Saliency maps can be download at: VGG ([Baidu Yun](https://pan.baidu.com/s/1AdkL
 - Progress
 
 ## Usage：
-Official imagenet-pretrained weights can be download at [Resnet50](https://download.pytorch.org/models/resnet50-19c8e357.pth) and [VGG16](https://download.pytorch.org/models/vgg16-397923af.pth).
+Official imagenet-pretrained weights can be download at Google drive ([ResNet50](https://drive.google.com/file/d/1qcZOOL7b7DJ0VbtXK0MvDsOTGNSsmXDm/view) and [VGG16](https://drive.google.com/file/d/1zyDqrjIacqK83pyzbq90rys9m732n28j/view)) or Baidu Disk
+([Resnet50](https://download.pytorch.org/models/resnet50-19c8e357.pth) and [VGG16](https://download.pytorch.org/models/vgg16-397923af.pth)).
 
 Our models: [Resnet50](https://pan.baidu.com/s/1qKSnPqbNs4--PwB5fA4E-g) [y55w] and [VGG16](https://pan.baidu.com/s/1ceI8lReLozh2WRsylszQgA) [kehh]
 
