@@ -3,7 +3,7 @@ Code for CVPR 2020 [paper](https://openaccess.thecvf.com/content_CVPR_2020/paper
 
 Saliency maps can be download at: VGG ([Baidu Yun](https://pan.baidu.com/s/1AdkLgfOK1jwgcqk06zwOwQ) \[gf1i\]), Resnet ([Baidu Yun](https://pan.baidu.com/s/1Gu9RpKuMdZrj1iJvh4A2og) \[sanf\])
 
-# We have prepared a gift for the coming new year!
+## We have prepared a gift for the coming new year! Coming soon!
 
 ## Prerequisites
 
