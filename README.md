@@ -3,7 +3,8 @@ Code for CVPR 2020 [paper](https://openaccess.thecvf.com/content_CVPR_2020/paper
 
 Saliency maps can be download at: VGG ([Baidu Yun](https://pan.baidu.com/s/1AdkLgfOK1jwgcqk06zwOwQ) \[gf1i\]), Resnet ([Baidu Yun](https://pan.baidu.com/s/1Gu9RpKuMdZrj1iJvh4A2og) \[sanf\])
 
-## We release our new work on Unsupervised Salient Object Detection (USOD) at [A2S-USOD](https://github.com/moothes/A2S-USOD).
+## This code is somehow outdated, please use the implementation in our [SOD benchmark](https://github.com/moothes/SALOD).  
+## We release our new works on Unsupervised Salient Object Detection (USOD) at [A2S-USOD](https://github.com/moothes/A2S-USOD) and [A2S-v2](https://github.com/moothes/A2S-v2).
 
 ## Prerequisites
 
